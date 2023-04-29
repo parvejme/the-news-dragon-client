@@ -1,0 +1,12 @@
+.bg-img{
+    position: relative;
+    z-index: -1;
+}
+
+.bg-img-info{
+    z-index: 1111;
+    position: relative;
+    margin-top: -400px;
+    color: #fff;
+    padding: 0 50px;
+}
